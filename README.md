@@ -1,5 +1,3 @@
-* Kintohub已经封了这个项目，所以只能部署到Heroku了，下面是部署到Heroku的方法。
-
 > 提醒： 滥用可能导致账户被BAN！！！[Telegram讨论群](https://t.me/starts_sh_group)  
 
 Heroku上部署v2ray，可更改传输协议vmess和vless，默认是vmess传输，部署时在v2ray protocol选项框改成你喜欢的协议即可．
