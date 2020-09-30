@@ -1,18 +1,18 @@
 {
-    "name": "v2ray-heroku",
-    "description": "deploy v2ray to heroku",
+    "name": "baidushare",
+    "description": "baidushare",
     "keywords": ["v2ray"],
     "env": {
         "UUID": {
-            "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "description": "UUID",
+            "value": "ad3c5282-02bb-11eb-adc1-0242ac120002"        
         },
         "PROTOCOL": {
-            "description": "v2ray protocol, vmess or vless",
+            "description": "baidushare",
             "value": "vmess"
         }
     },
-    "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/kinto",
+    "website": "https://baidu.com",
+    "repository": "https://github.com/yangzi8899/zilongyang",
     "stack": "container"
 }
